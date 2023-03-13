@@ -1,0 +1,5 @@
+polymorphism is of two types 1.fn overloading and 2.fn overriding
+This is polymorphism --> Multiple forms(A single named fn called info is performing many tasks)
+ function(method) overloading  is also called compile-time polymorphism coz durimg compiling it detects whether we had implemented polymorphism right or not.
+In runtime compiler is not able to detetct errors during compiling 
+ Compile-time is better than run-time coz we get to know aboout the errors durimg compilation but let's take a case in run-time but even for once if that apploication gets in the production and has reached users and now we are getting errors in run time the ot would be problem for everyone.It will be a big problem

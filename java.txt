@@ -1,0 +1,2 @@
+Q)why main function is public?
+> coz when our compiler work in java runtime environment so it has to find out what from which class to start execution that's why we can't make main class private or protected.We always need to make it public so it is accessibles
